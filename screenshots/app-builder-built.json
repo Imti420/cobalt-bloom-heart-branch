@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Overview — ADMISSION//26",
+      "hasCanvas": false,
+      "bodyTextLen": 2745,
+      "bodyTextHash": "1c9588497328ba1aed9f783db7b97ed24f29efa06e072e966b4223b649137b17",
+      "bodyTextPrefix": "A//26 ADMISSION ARCHIVE OVERVIEW ALL UNIVERSITIES CIRCULAR ARCHI",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Overview — ADMISSION//26",
+      "hasCanvas": false,
+      "bodyTextLen": 2559,
+      "bodyTextHash": "7eeb270a401e2f9a5a6da3fa3689ed864ee9e1aab5567411ff9c58bcee440481",
+      "bodyTextPrefix": "MENU Search the archive VOL. 01 · DHAKA DESK · 04 NOV 2026 HSC 2",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

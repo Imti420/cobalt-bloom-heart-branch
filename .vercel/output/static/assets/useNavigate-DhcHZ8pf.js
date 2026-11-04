@@ -1,0 +1,1 @@
+import{C as e,v as t,x as n}from"./cn-B59JaMaC.js";var r=e(n(),1);function i(e){let n=t();return r.useCallback(t=>n.navigate({...t,from:t.from??e?.from}),[e?.from,n])}export{i as t};
